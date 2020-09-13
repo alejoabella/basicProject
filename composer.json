@@ -1,0 +1,11 @@
+{
+    "name": "alejo/oop",
+    "description": "Basic OOP",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "src/lib",
+            "Model\\": "src/model"
+        }
+    }
+}
